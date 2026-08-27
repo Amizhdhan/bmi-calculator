@@ -1,0 +1,6 @@
+{
+  "name": "BMI Calculator",
+  "description": "A modern, responsive Body Mass Index (BMI) calculator with real-time metric and imperial unit conversions, interactive visual scale, and comprehensive health range insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
